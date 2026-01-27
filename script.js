@@ -71,6 +71,11 @@ document.querySelectorAll('.skill-tag, .project-card, .stat, .timeline-content')
 // Contact Form Handling
 // ==========================================
 
+// Initialize EmailJS
+(function() {
+    emailjs.init('XYZ_PUBLIC_KEY_XYZ'); // Will be replaced with actual public key
+})();
+
 const contactForm = document.getElementById('contactForm');
 
 if (contactForm) {
@@ -78,36 +83,44 @@ if (contactForm) {
         e.preventDefault();
 
         // Get form data
-        const name = document.getElementById('name').value.trim();
-        const email = document.getElementById('email').value.trim();
+        const from_name = document.getElementById('from_name').value.trim();
+        const from_email = document.getElementById('from_email').value.trim();
         const subject = document.getElementById('subject').value.trim();
         const message = document.getElementById('message').value.trim();
 
         // Validate form
-        if (!name || !email || !subject || !message) {
+        if (!from_name || !from_email || !subject || !message) {
             showNotification('Please fill in all fields', 'error');
             return;
         }
 
         // Email validation
         const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-        if (!emailRegex.test(email)) {
+        if (!emailRegex.test(from_email)) {
             showNotification('Please enter a valid email address', 'error');
             return;
         }
 
-        // Here you would normally send the form to a server
-        // For now, we'll show a success message and log the data
-        console.log({
-            name,
-            email,
-            subject,
-            message,
-            timestamp: new Date().toISOString()
-        });
+        // Send email via EmailJS
+        const templateParams = {
+            to_email: 'abijithkishan.0502@outlook.com',
+            from_name: from_name,
+            from_email: from_email,
+            subject: subject,
+            message: message,
+            reply_to: from_email
+        };
 
-        showNotification('Message sent successfully! I will get back to you soon.', 'success');
-        contactForm.reset();
+        emailjs.send('service_portfolio', 'template_contact', templateParams)
+            .then((response) => {
+                console.log('Email sent successfully!', response);
+                showNotification('Message sent successfully! I will get back to you soon.', 'success');
+                contactForm.reset();
+            })
+            .catch((error) => {
+                console.error('Failed to send email:', error);
+                showNotification('Failed to send message. Please try again or email me directly at abijithkishan.0502@outlook.com', 'error');
+            });
     });
 }
 
