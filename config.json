@@ -1,0 +1,186 @@
+{
+  "personal": {
+    "fullName": "Abijith Kishan Kotamarthy",
+    "title": "Data Scientist & Analytics Expert | MBA | 7+ Years Experience",
+    "summary": "Bridging advanced technical engineering and strategic business decision-making",
+    "email": "abijith.kishan@email.com",
+    "phone": "+1 (604) 123-4567",
+    "location": "Vancouver, BC, Canada"
+  },
+  "social": {
+    "linkedin": "https://linkedin.com/in/abijith-kishan-kotamarthy",
+    "github": "https://github.com/abijith-kishan",
+    "twitter": "https://twitter.com/abijith_kishan",
+    "instagram": "https://instagram.com/abijith_kishan",
+    "youtube": "https://www.youtube.com/channel/your-channel"
+  },
+  "about": {
+    "yearsOfExperience": 7,
+    "projectsCompleted": 20,
+    "satisfactionRate": 100,
+    "description": "Senior Data Scientist & Analytics Advisor with 7+ years of experience and an MBA in Business Analytics. I specialize in bridging advanced technical engineering and strategic business decision-making, currently leading Machine Learning (NLP) solutions and modernizing legacy data architectures using Microsoft Fabric at ICBC."
+  },
+  "skills": {
+    "datascience": [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "Scikit-learn",
+      "Predictive Modeling",
+      "Sentiment Analysis"
+    ],
+    "machinelearning": [
+      "NLP",
+      "Classification",
+      "Regression",
+      "Data Engineering",
+      "Feature Engineering",
+      "Model Optimization"
+    ],
+    "databases": [
+      "SQL",
+      "Oracle",
+      "PostgreSQL",
+      "SAS",
+      "SPSS",
+      "Microsoft Fabric"
+    ],
+    "visualization": [
+      "Tableau",
+      "Power BI",
+      "Qualtrics",
+      "Google Analytics",
+      "Databox",
+      "Data Storytelling"
+    ],
+    "cloud": [
+      "Azure",
+      "Google Tag Manager",
+      "Excel",
+      "API Integration",
+      "Automation",
+      "R"
+    ],
+    "strategic": [
+      "Stakeholder Management",
+      "ROI Analysis",
+      "Business Strategy",
+      "Problem Solving",
+      "Team Leadership",
+      "Agile/Scrum"
+    ]
+  },
+      "MySQL",
+      "Redis",
+      "Docker",
+      "Git"
+    ],
+    "cloud": [
+      "AWS",
+      "Azure",
+      "GCP",
+      "Docker",
+      "Kubernetes",
+      "CI/CD"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Analytics Advisor",
+      "company": "ICBC (Insurance Corporation of British Columbia)",
+      "location": "Vancouver, BC",
+      "startDate": "Oct 2022",
+      "endDate": "Present",
+      "description": "Leading machine learning (NLP) solutions for customer sentiment analysis. Building interactive Tableau dashboards and automating reporting processes. Driving data modernization initiatives by migrating legacy systems to Oracle Database and Microsoft Fabric."
+    },
+    {
+      "title": "Analyst",
+      "company": "MetrixLab",
+      "location": "Hyderabad, India",
+      "startDate": "Jun 2017",
+      "endDate": "Aug 2021",
+      "description": "Built complete data science pipelines including SQL querying, data cleaning, and machine learning algorithms in Python. Developed revenue prediction models from product advertisements and performed sentiment analysis on customer feedback. Created impactful Tableau visualizations transforming raw data into actionable business insights."
+    },
+    {
+      "title": "Data Analyst Intern",
+      "company": "Rethink2gether",
+      "location": "Vancouver, BC",
+      "startDate": "Apr 2022",
+      "endDate": "Jul 2022",
+      "description": "Developed predictive models in Python to forecast food demand and minimize kitchen waste. Created Tableau dashboards highlighting food waste patterns. Set up Google Tag Manager events and analyzed KPIs in Google Analytics."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Business Administration (MBA)",
+      "field": "Business Analytics",
+      "institution": "University Canada West",
+      "location": "Vancouver, BC",
+      "graduationYear": 2022
+    },
+    {
+      "degree": "Post Graduate Diploma (PGDM)",
+      "field": "Data Science",
+      "institution": "IMS Proschool Pvt. Ltd.",
+      "location": "Hyderabad, India",
+      "graduationYear": 2019
+    },
+    {
+      "degree": "Bachelor of Technology (BTech)",
+      "field": "Information Technology",
+      "institution": "Jawaharlal Nehru Technological University",
+      "location": "Hyderabad, India",
+      "graduationYear": 2017
+    }
+  ],
+  "projects": [
+    {
+      "title": "Food Waste Prediction & Analytics",
+      "description": "Predictive analytics solution for Rethink2gether to forecast food demand and minimize kitchen waste. Combined machine learning forecasting with comprehensive Tableau dashboards and web analytics integration.",
+      "technologies": ["Python", "Tableau", "Google Analytics", "Machine Learning"],
+      "codeLink": "https://github.com",
+      "year": "2022"
+    },
+    {
+      "title": "Revenue & Sentiment Analysis Pipeline",
+      "description": "Comprehensive data science pipeline for predicting revenue from product advertisements and analyzing customer sentiment. Processes large-scale datasets using Python and SQL for strategic decision-making.",
+      "technologies": ["Python", "SQL", "NLP", "Tableau"],
+      "codeLink": "https://github.com",
+      "year": "2021"
+    },
+    {
+      "title": "Customer Sentiment Analysis (NLP)",
+      "description": "Natural Language Processing solution analyzing open-ended customer feedback to extract sentiment and actionable insights. Integrates Python NLP libraries with enterprise data pipelines for continuous analysis.",
+      "technologies": ["Python", "NLP", "Oracle", "Qualtrics"],
+      "codeLink": "https://github.com",
+      "year": "2023"
+    },
+    {
+      "title": "Data Modernization & Migration",
+      "description": "Led initiative migrating legacy data infrastructure to modern cloud platforms. Engineered data pipelines using Oracle Database, SQL, and Microsoft Fabric. Improved data accessibility and analytics capabilities organization-wide.",
+      "technologies": ["Oracle", "SQL", "Microsoft Fabric", "Data Engineering"],
+      "codeLink": "https://github.com",
+      "year": "2023"
+    }
+  ],
+  "education": {
+    "degree": "B.S. Computer Science",
+    "university": "University Name",
+    "year": "Year",
+    "gpa": "3.8/4.0"
+  },
+  "certifications": [
+    "AWS Certified Solutions Architect - Associate",
+    "Google Cloud Professional Cloud Developer",
+    "The Complete JavaScript Course 2023"
+  ],
+  "customization": {
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#1e40af",
+    "accentColor": "#f59e0b",
+    "darkBg": "#0f172a",
+    "lightBg": "#f8fafc",
+    "textDark": "#1e293b",
+    "textLight": "#64748b"
+  }
+}
