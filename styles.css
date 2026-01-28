@@ -202,6 +202,14 @@ body {
     animation: slideInUp 0.8s ease 0.2s both;
 }
 
+.hero-experience {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    color: #3498db;
+    animation: slideInUp 0.8s ease 0.3s both;
+}
+
 .hero-description {
     font-size: 1.1rem;
     margin-bottom: 2rem;
