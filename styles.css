@@ -520,16 +520,22 @@ body {
 }
 
 .timeline-content h3 {
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     margin-bottom: 0.5rem;
     color: var(--text-dark);
 }
 
-.timeline-content .company {
+.timeline-content .role {
     color: var(--primary-color);
     font-weight: 600;
+    margin-bottom: 0.3rem;
+    font-size: 1.05rem;
+}
+
+.timeline-content .duration {
+    color: var(--text-light);
+    font-size: 0.95rem;
     margin-bottom: 1rem;
-    font-size: 1rem;
 }
 
 .timeline-content p {
