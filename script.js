@@ -73,7 +73,7 @@ document.querySelectorAll('.skill-tag, .project-card, .stat, .timeline-content')
 
 // Initialize EmailJS
 (function() {
-    emailjs.init('XYZ_PUBLIC_KEY_XYZ'); // Will be replaced with actual public key
+    emailjs.init('Hlvn9mj5ik4eieZcO');
 })();
 
 const contactForm = document.getElementById('contactForm');
@@ -111,7 +111,7 @@ if (contactForm) {
             reply_to: from_email
         };
 
-        emailjs.send('service_portfolio', 'template_contact', templateParams)
+        emailjs.send('service_xnwk3c6', 'template_6xnbtlh', templateParams)
             .then((response) => {
                 console.log('Email sent successfully!', response);
                 showNotification('Message sent successfully! I will get back to you soon.', 'success');
