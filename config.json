@@ -52,11 +52,11 @@
     ],
     "cloud": [
       "Azure",
-      "Google Tag Manager",
-      "Excel",
+      "AWS",
+      "Google Cloud",
       "API Integration",
-      "Automation",
-      "R"
+      "Docker",
+      "Kubernetes"
     ],
     "strategic": [
       "Stakeholder Management",
@@ -65,20 +65,6 @@
       "Problem Solving",
       "Team Leadership",
       "Agile/Scrum"
-    ]
-  },
-      "MySQL",
-      "Redis",
-      "Docker",
-      "Git"
-    ],
-    "cloud": [
-      "AWS",
-      "Azure",
-      "GCP",
-      "Docker",
-      "Kubernetes",
-      "CI/CD"
     ]
   },
   "experience": [
@@ -160,17 +146,33 @@
       "year": "2023"
     }
   ],
-  "education": {
-    "degree": "B.S. Computer Science",
-    "university": "University Name",
-    "year": "Year",
-    "gpa": "3.8/4.0"
-  },
   "certifications": [
     "AWS Certified Solutions Architect - Associate",
     "Google Cloud Professional Cloud Developer",
-    "The Complete JavaScript Course 2023"
+    "The Complete JavaScript Course 2023",
+    "Microsoft Certified: Data Engineer Associate",
+    "Microsoft Certified: Data Analyst"
   ],
+  "resumes": {
+    "data-scientist": {
+      "title": "Data Scientist",
+      "description": "Senior Data Scientist specializing in Machine Learning, NLP, and Predictive Analytics",
+      "pdfFile": "resume.pdf",
+      "textFile": "resume-data-scientist.txt"
+    },
+    "data-analyst": {
+      "title": "Data Analyst",
+      "description": "Senior Data Analyst specializing in Business Intelligence and Data-Driven Decision Making",
+      "pdfFile": "resume.pdf",
+      "textFile": "resume-data-analyst.txt"
+    },
+    "bi-engineer": {
+      "title": "BI Engineer",
+      "description": "BI Engineer specializing in Data Warehousing, ETL/ELT, and Analytics Architecture",
+      "pdfFile": "resume.pdf",
+      "textFile": "resume-bi-engineer.txt"
+    }
+  },
   "customization": {
     "primaryColor": "#2563eb",
     "secondaryColor": "#1e40af",

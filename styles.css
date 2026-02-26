@@ -650,6 +650,49 @@ body {
     border-top: 1px solid var(--card-border);
 }
 
+.resume-selector {
+    margin-bottom: 2.5rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.resume-selector label {
+    font-weight: 600;
+    color: var(--text-dark);
+    font-size: 1.1rem;
+}
+
+.resume-dropdown {
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+    border: 2px solid var(--primary-color);
+    border-radius: 8px;
+    background-color: var(--card-bg);
+    color: var(--text-dark);
+    cursor: pointer;
+    transition: all 0.3s ease;
+    min-width: 200px;
+}
+
+.resume-dropdown:hover {
+    border-color: var(--primary-color);
+    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.2);
+}
+
+.resume-dropdown:focus {
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+}
+
+.resume-dropdown option {
+    background-color: var(--card-bg);
+    color: var(--text-dark);
+    padding: 0.5rem;
+}
+
 .resume-container {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -974,6 +1017,15 @@ body {
 
     .resume-container {
         grid-template-columns: 1fr;
+    }
+
+    .resume-selector {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .resume-dropdown {
+        min-width: 100%;
     }
 
     .resume-frame {

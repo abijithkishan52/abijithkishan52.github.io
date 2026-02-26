@@ -1,0 +1,98 @@
+ABIJITH KISHAN KOTAMARTHY
+================================================================================
+Senior Data Analyst | Business Intelligence Specialist | Analytics Expert | 7+ Years Experience
+
+CONTACT INFORMATION
+================================================================================
+Email: abijithkishan.0502@outlook.com
+Phone: +1 (604) 123-4567
+LinkedIn: linkedin.com/in/abijith-kishan-kotamarthy
+GitHub: github.com/abijithkishan52
+Location: Vancouver, BC, Canada
+
+PROFESSIONAL SUMMARY
+================================================================================
+Senior Data Analyst with 7+ years of proven expertise in transforming complex 
+business data into actionable insights. Specialized in building interactive dashboards, 
+conducting statistical analysis, and driving data-informed decision-making across 
+organizations. Strong background in BI tools, SQL optimization, and stakeholder 
+communication. Currently delivering analytics solutions at ICBC, supporting executive 
+reporting and strategic initiatives.
+
+CORE COMPETENCIES
+================================================================================
+• Business Intelligence: Dashboard Design, KPI Tracking, Executive Reporting, Data Visualization
+• Analytics Tools: Tableau, Power BI, Qlik, Google Analytics, Databox, Qualtrics
+• SQL & Databases: Advanced SQL, Query Optimization, Stored Procedures, Oracle, PostgreSQL
+• Data Analysis: Exploratory Data Analysis (EDA), Statistical Analysis, A/B Testing
+• Reporting: Executive Dashboards, Automated Reports, Ad-hoc Reporting, Data Storytelling
+• Business Acumen: Financial Analysis, Sales Analytics, Customer Analytics, Market Analysis
+• Tools & Platforms: Excel (Advanced), Google Sheets, SAP, Salesforce
+• Cloud Platforms: Azure, AWS, Google Cloud
+
+PROFESSIONAL EXPERIENCE
+================================================================================
+
+Senior Data Analyst
+ICBC | 2022 - Present
+• Designed and built 50+ interactive Tableau dashboards supporting executive decision-making
+• Created KPI tracking system monitoring 200+ metrics across insurance operations
+• Conducted statistical analysis on customer behavior improving targeting accuracy by 18%
+• Optimized complex SQL queries reducing dashboard load time from 15 seconds to 2 seconds
+• Built automated weekly reporting solution eliminating 20+ manual hours of data preparation
+• Analyzed claims data identifying $1.2M+ in potential process improvements
+• Collaborated with 8+ business teams to translate requirements into analytics solutions
+• Technologies: Tableau, SQL, Power BI, Advanced Excel, Statistical Analysis
+
+Senior Analytics Manager
+MetrixLab | 2020 - 2022
+• Led analytics projects for 20+ Fortune 500 brands across multiple industries
+• Designed comprehensive dashboards tracking campaign performance, reach, and engagement
+• Conducted A/B testing analysis on marketing campaigns influencing $5M+ budget allocation
+• Performed customer segmentation analysis identifying high-value customer profiles
+• Created automated reports reducing manual reporting time from 30 hours to 5 hours weekly
+• Mentored team of 3 junior analysts on best practices in data analysis and visualization
+• Technologies: Tableau, Power BI, SQL, Qualtrics, Google Analytics, Excel
+
+Data Analyst
+TCS Consulting | 2018 - 2020
+• Analyzed sales data identifying trends and opportunities resulting in 12% revenue increase
+• Built financial dashboards for CFO reporting on quarterly performance against budget
+• Conducted exploratory data analysis on customer datasets with 2M+ records
+• Created ad-hoc reports for various business departments supporting data-driven decisions
+• Trained 15+ business users on dashboard usage and self-service analytics
+• Technologies: Tableau, SQL, Excel, Power BI, Google Analytics
+
+EDUCATION
+================================================================================
+Master of Business Administration (MBA)
+Business Analytics | University Canada West, 2021-2022
+
+Post Graduate Diploma
+Data Science | IMS Proschool, 2018-2019
+
+Bachelor of Technology (B.Tech)
+Information Technology | Jawaharlal Nehru Technological University, 2013-2017
+
+CERTIFICATIONS & ACHIEVEMENTS
+================================================================================
+• Microsoft Certified Data Analyst (Power BI)
+• Tableau Desktop Specialist
+• Certified Associate Business Analyst (CABA)
+• Google Analytics Certification
+• Advanced Excel Certification (Microsoft Office Specialist)
+• Top Analytics Professional Award - MetrixLab 2021
+
+PROJECTS & ACHIEVEMENTS
+================================================================================
+• Dashboard Modernization: Migrated 100+ Excel reports to Tableau, improving accessibility
+• Data Warehouse Optimization: Optimized SQL queries improving dashboard performance by 85%
+• Customer Analytics: Analyzed 5M+ customer records creating segmentation driving $2M revenue
+• Executive Reporting: Built automated executive dashboard tracking 200+ KPIs saving 40 hours/month
+• A/B Testing: Conducted 50+ statistical analyses on marketing campaigns driving decisions
+
+TECHNICAL SKILLS PROFICIENCY
+================================================================================
+Expert (90%+): Tableau, SQL, Excel, Data Analysis, Business Intelligence, Power BI
+Advanced (70%+): Statistical Analysis, Google Analytics, Qualtrics, Data Visualization
+Proficient (50%+): Python, R, Machine Learning, AWS, Azure, Salesforce

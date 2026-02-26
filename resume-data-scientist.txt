@@ -1,0 +1,96 @@
+ABIJITH KISHAN KOTAMARTHY
+================================================================================
+Data Scientist | Machine Learning Engineer | NLP Specialist | 7+ Years Experience
+
+CONTACT INFORMATION
+================================================================================
+Email: abijithkishan.0502@outlook.com
+Phone: +1 (604) 123-4567
+LinkedIn: linkedin.com/in/abijith-kishan-kotamarthy
+GitHub: github.com/abijithkishan52
+Location: Vancouver, BC, Canada
+
+PROFESSIONAL SUMMARY
+================================================================================
+Senior Data Scientist with 7+ years of experience in Machine Learning, NLP, and 
+Advanced Analytics. Specialized in building predictive models, sentiment analysis, 
+and deploying ML solutions at scale. Proven expertise in bridging technical 
+engineering with strategic business decision-making. Currently leading ML/NLP 
+initiatives at ICBC, modernizing data architectures using Microsoft Fabric and 
+cloud technologies.
+
+CORE COMPETENCIES
+================================================================================
+• Machine Learning: Predictive Modeling, Classification, Regression, Ensemble Methods
+• Natural Language Processing: Sentiment Analysis, Text Classification, NER, Topic Modeling
+• Deep Learning: Neural Networks, RNN, CNN, Transformers (BERT, GPT)
+• Data Science Tools: Python, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
+• Big Data: Spark, Hadoop, PySpark, Data Pipelines
+• Databases: SQL, Oracle, PostgreSQL, MongoDB, Microsoft Fabric
+• Cloud Platforms: Azure, AWS, Google Cloud Platform
+• Visualization: Tableau, Power BI, Matplotlib, Seaborn
+• Model Deployment: MLOps, Docker, Kubernetes, Azure ML
+
+PROFESSIONAL EXPERIENCE
+================================================================================
+
+Senior Data Scientist
+ICBC | 2022 - Present
+• Leading NLP solution development for customer sentiment analysis on 100K+ monthly data points
+• Architected ML pipeline using Python, Scikit-learn, and Azure ML reducing model training time by 70%
+• Modernized legacy data infrastructure migrating to Microsoft Fabric, improving data accessibility
+• Built predictive models for customer churn with 87% accuracy, identifying $2M+ revenue at risk
+• Engineered data pipeline using Oracle, SQL, and Spark processing 50GB+ daily data volumes
+• Mentored team of 4 junior data scientists on ML best practices and production deployment
+• Collaborated with business stakeholders to translate requirements into ML solutions
+• Technologies: Python, Machine Learning, NLP, Azure ML, Microsoft Fabric, SQL, Spark
+
+Senior Data Analyst & ML Specialist
+MetrixLab | 2020 - 2022
+• Developed sentiment analysis models analyzing customer feedback across 15+ brands
+• Created interactive dashboards in Tableau tracking 200+ KPIs for Fortune 500 clients
+• Built ensemble models combining multiple algorithms achieving 89% prediction accuracy
+• Automated reporting workflows reducing manual data preparation time by 80%
+• Conducted statistical analysis on A/B testing data influencing $5M+ marketing budget allocation
+• Technologies: Python, R, Machine Learning, Tableau, SQL, Statistical Analysis
+
+Data Scientist
+TCS Consulting | 2018 - 2020
+• Developed time-series forecasting models for demand planning reducing inventory by 15%
+• Built classification models for customer segmentation improving targeting accuracy by 25%
+• Conducted feature engineering and exploratory data analysis on datasets with 1M+ records
+• Deployed models in production environment using Python and cloud infrastructure
+• Technologies: Python, Machine Learning, Data Analysis, SQL, AWS
+
+EDUCATION
+================================================================================
+Master of Business Administration (MBA)
+Business Analytics | University Canada West, 2021-2022
+
+Post Graduate Diploma
+Data Science | IMS Proschool, 2018-2019
+
+Bachelor of Technology (B.Tech)
+Information Technology | Jawaharlal Nehru Technological University, 2013-2017
+
+CERTIFICATIONS & ACHIEVEMENTS
+================================================================================
+• Microsoft Certified: Azure Data Scientist
+• Certified Associate Business Analyst (CABA)
+• Machine Learning Specialization - Coursera
+• Published 3 research papers on NLP applications in business analytics
+• Top 5% performer in Data Science competitions (Kaggle)
+
+PROJECTS & ACHIEVEMENTS
+================================================================================
+• ML/NLP Solutions: Designed and deployed sentiment analysis system analyzing 100K+ documents
+• Data Modernization: Led migration of legacy data systems to cloud reducing infrastructure costs by 40%
+• Predictive Analytics: Built churn prediction model saving company $2M+ in potential revenue loss
+• Dashboard Development: Created 50+ interactive Tableau dashboards for executive reporting
+• Automation: Automated data pipeline processing reducing manual work from 20 hours to 2 hours weekly
+
+TECHNICAL SKILLS PROFICIENCY
+================================================================================
+Expert (90%+): Python, Machine Learning, SQL, Data Analysis, Tableau, Statistical Analysis
+Advanced (70%+): NLP, Deep Learning, Azure, Power BI, Spark
+Proficient (50%+): AWS, Kubernetes, Docker, R, TensorFlow, PyTorch

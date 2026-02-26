@@ -1,0 +1,101 @@
+ABIJITH KISHAN KOTAMARTHY
+================================================================================
+BI Engineer | Data Engineering Specialist | Analytics Architecture Expert | 7+ Years Experience
+
+CONTACT INFORMATION
+================================================================================
+Email: abijithkishan.0502@outlook.com
+Phone: +1 (604) 123-4567
+LinkedIn: linkedin.com/in/abijith-kishan-kotamarthy
+GitHub: github.com/abijithkishan52
+Location: Vancouver, BC, Canada
+
+PROFESSIONAL SUMMARY
+================================================================================
+Highly skilled BI Engineer with 7+ years of expertise in designing, building, and 
+maintaining enterprise data solutions. Specialized in ETL/ELT pipelines, data 
+warehouse architecture, and BI infrastructure development. Proven ability to architect 
+scalable analytics platforms handling billions of data points. Currently leading 
+modernization initiatives at ICBC, implementing cloud-based data solutions using 
+Microsoft Fabric and advanced analytics platforms.
+
+CORE COMPETENCIES
+================================================================================
+• ETL/ELT Development: SSIS, Talend, Informatica, Apache Airflow, dbt
+• Data Warehousing: Snowflake, Redshift, BigQuery, Microsoft Fabric, Azure Synapse
+• Database Design: Data Modeling, Schema Design, Optimization, Partitioning
+• BI Tools Development: Tableau, Power BI, Qlik, Looker development and optimization
+• SQL & Programming: Advanced SQL, Python, PySpark, SQL Server, Oracle, PostgreSQL
+• Cloud Platforms: Azure Data Factory, AWS Glue, Google Cloud Dataflow
+• Big Data Technologies: Spark, Hadoop, Kafka, Delta Lake, Iceberg
+• DevOps & CI/CD: Azure DevOps, Git, Docker, Kubernetes, Jenkins
+
+PROFESSIONAL EXPERIENCE
+================================================================================
+
+Senior BI Engineer
+ICBC | 2022 - Present
+• Architected enterprise data warehouse using Microsoft Fabric supporting 100+ concurrent users
+• Designed and implemented ETL pipelines processing 500GB+ daily data volumes using Azure Data Factory
+• Modernized legacy data infrastructure migrating from Oracle to cloud-based Snowflake
+• Built dimensional models and fact tables supporting 200+ analytics dashboards
+• Optimized data warehouse queries reducing average query execution time from 45s to 3s
+• Implemented data governance framework ensuring 99.99% data availability and quality
+• Managed team of 3 data engineers and mentored on BI architecture best practices
+• Reduced data pipeline runtime by 60% through query optimization and infrastructure scaling
+• Technologies: Microsoft Fabric, Azure Data Factory, SQL, Python, Snowflake, Power BI
+
+Lead BI Engineer
+MetrixLab | 2020 - 2022
+• Designed and built BI infrastructure supporting analytics for 20+ enterprise clients
+• Developed complex ETL pipelines using Talend processing multi-terabyte datasets
+• Created data warehouse supporting real-time dashboards with <500ms query latency
+• Implemented automated data quality checks reducing data errors by 95%
+• Built Python scripts optimizing ETL processes reducing run time from 8 hours to 1 hour
+• Architected Tableau Server infrastructure supporting 500+ active users
+• Designed dimensional models and created 100+ calculated metrics for analytics
+• Technologies: Tableau, Power BI, Talend, SQL, Python, PostgreSQL, AWS
+
+BI Developer
+TCS Consulting | 2018 - 2020
+• Developed ETL jobs using SSIS processing millions of records from multiple data sources
+• Designed fact and dimension tables for star schema data warehouse models
+• Built Power BI dashboards and reports connected to enterprise data warehouse
+• Optimized SQL queries improving data warehouse performance by 40%
+• Documented data lineage and metadata for 200+ data assets
+• Collaborated with analysts and business users to translate requirements into technical solutions
+• Technologies: SSIS, SQL Server, Power BI, T-SQL, Azure
+
+EDUCATION
+================================================================================
+Master of Business Administration (MBA)
+Business Analytics | University Canada West, 2021-2022
+
+Post Graduate Diploma
+Data Science | IMS Proschool, 2018-2019
+
+Bachelor of Technology (B.Tech)
+Information Technology | Jawaharlal Nehru Technological University, 2013-2017
+
+CERTIFICATIONS & ACHIEVEMENTS
+================================================================================
+• Microsoft Certified: Data Engineer Associate (Azure)
+• Microsoft Certified: Data Analyst (Power BI)
+• Snowflake University - SnowPro Core Certified
+• AWS Certified Solutions Architect - Associate
+• Tableau Desktop Specialist
+
+PROJECTS & ACHIEVEMENTS
+================================================================================
+• Cloud Data Warehouse: Designed enterprise warehouse on Microsoft Fabric supporting 2B+ rows
+• ETL Pipeline Optimization: Reduced ETL execution time from 8 hours to 45 minutes (90% improvement)
+• Data Modernization: Led successful migration of legacy systems to cloud saving $1.2M annually
+• Real-time Analytics: Built near real-time dashboard infrastructure with <500ms latency
+• Data Integration: Consolidated data from 15+ source systems into unified enterprise platform
+• Infrastructure Scaling: Architected solution supporting 1000% traffic increase without performance degradation
+
+TECHNICAL SKILLS PROFICIENCY
+================================================================================
+Expert (90%+): SQL, ETL/ELT, Data Warehousing, Python, Data Modeling, T-SQL
+Advanced (70%+): Azure, Microsoft Fabric, Snowflake, Power BI, Spark, Tableau
+Proficient (50%+): AWS, Docker, Kubernetes, Apache Airflow, dbt, Kafka
