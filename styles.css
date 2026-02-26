@@ -651,15 +651,23 @@ body {
 }
 
 .resume-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3rem;
+    align-items: start;
 }
 
 .resume-education {
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
+}
+
+.resume-education h3 {
+    font-size: 1.3rem;
+    color: var(--primary-color);
+    margin-bottom: 0.5rem;
+    font-weight: 600;
 }
 
 .quick-stat {
@@ -691,7 +699,6 @@ body {
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
-    max-width: 400px;
 }
 
 .resume-selector-section h3 {
