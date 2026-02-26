@@ -651,10 +651,9 @@ body {
 }
 
 .resume-container {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 3rem;
-    align-items: start;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .resume-education {
@@ -692,6 +691,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
+    max-width: 400px;
 }
 
 .resume-selector-section h3 {
