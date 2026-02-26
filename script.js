@@ -297,89 +297,10 @@ document.body.style.opacity = '0';
 document.body.style.transition = 'opacity 0.5s ease';
 
 // ==========================================
-// Resume Selector Functionality
+// Resume Links - Direct Download
 // ==========================================
-
-const resumeSelect = document.getElementById('resumeSelect');
-const resumeIframe = document.getElementById('resumeIframe');
-const pdfDownloadBtn = document.getElementById('pdfDownloadBtn');
-const textDownloadBtn = document.getElementById('textDownloadBtn');
-
-const resumeOptions = {
-    'data-scientist': {
-        pdf: 'resume.pdf',
-        text: 'resume-data-scientist.txt',
-        label: 'Data Scientist Resume'
-    },
-    'data-analyst': {
-        pdf: 'resume.pdf',
-        text: 'resume-data-analyst.txt',
-        label: 'Data Analyst Resume'
-    },
-    'bi-engineer': {
-        pdf: 'resume.pdf',
-        text: 'resume-bi-engineer.txt',
-        label: 'BI Engineer Resume'
-    }
-};
-
-// Load the default resume type from localStorage or use 'data-scientist'
-function loadResumePreference() {
-    const savedResume = localStorage.getItem('selectedResumeType');
-    if (savedResume && resumeOptions[savedResume]) {
-        resumeSelect.value = savedResume;
-        updateResume(savedResume);
-    }
-}
-
-function updateResume(resumeType) {
-    const resume = resumeOptions[resumeType];
-    
-    // Update iframe (use text version if PDF not available)
-    if (resumeIframe) {
-        resumeIframe.src = resume.pdf;
-    }
-    
-    // Update download buttons
-    if (pdfDownloadBtn) {
-        pdfDownloadBtn.href = resume.pdf;
-    }
-    if (textDownloadBtn) {
-        textDownloadBtn.href = resume.text;
-    }
-    
-    // Save preference to localStorage
-    localStorage.setItem('selectedResumeType', resumeType);
-}
-
-// Listen for changes in the resume selector
-if (resumeSelect) {
-    resumeSelect.addEventListener('change', (e) => {
-        updateResume(e.target.value);
-    });
-}
-
-// Load saved preference on page load
-loadResumePreference();
-
-// ==========================================
-// Resume PDF Viewer Alternative
-// ==========================================
-
-// If PDF viewer doesn't work, provide download option
-if (resumeIframe) {
-    resumeIframe.addEventListener('error', () => {
-        const container = resumeIframe.parentElement;
-        container.innerHTML = `
-            <div style="padding: 2rem; text-align: center; background: #f0f0f0; border-radius: 10px;">
-                <p>PDF Viewer not available. Please download the resume to view.</p>
-                <a href="${pdfDownloadBtn.href}" download class="btn btn-primary" style="display: inline-block; margin-top: 1rem;">
-                    Download Resume
-                </a>
-            </div>
-        `;
-    });
-}
+// Resume links with download attribute handle direct downloads
+// No additional JavaScript functionality needed
 
 // ==========================================
 // Performance: Lazy Loading for Images
