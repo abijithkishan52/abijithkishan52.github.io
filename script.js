@@ -297,10 +297,26 @@ document.body.style.opacity = '0';
 document.body.style.transition = 'opacity 0.5s ease';
 
 // ==========================================
-// Resume Links - Direct Download
+// Resume Selector Functionality
 // ==========================================
-// Resume links with download attribute handle direct downloads
-// No additional JavaScript functionality needed
+
+const resumeSelect = document.getElementById('resumeSelect');
+const downloadBtn = document.getElementById('downloadBtn');
+
+const resumeFiles = {
+    'data-scientist': 'resume-data-scientist.txt',
+    'data-analyst': 'resume-data-analyst.txt',
+    'bi-engineer': 'resume-bi-engineer.txt'
+};
+
+if (resumeSelect) {
+    resumeSelect.addEventListener('change', (e) => {
+        const selectedResume = e.target.value;
+        if (downloadBtn && resumeFiles[selectedResume]) {
+            downloadBtn.href = resumeFiles[selectedResume];
+        }
+    });
+}
 
 // ==========================================
 // Performance: Lazy Loading for Images
