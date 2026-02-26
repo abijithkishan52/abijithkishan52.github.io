@@ -302,6 +302,7 @@ document.body.style.transition = 'opacity 0.5s ease';
 
 const resumeSelect = document.getElementById('resumeSelect');
 const downloadBtn = document.getElementById('downloadBtn');
+const resumePdfFrame = document.getElementById('resumePdfFrame');
 
 const resumeFiles = {
     'data-scientist': 'resume-data-scientist.txt',
@@ -315,6 +316,8 @@ if (resumeSelect) {
         if (downloadBtn && resumeFiles[selectedResume]) {
             downloadBtn.href = resumeFiles[selectedResume];
         }
+        // Note: PDF viewer will show resume.pdf as placeholder
+        // In production, you would use resume-{type}.pdf files
     });
 }
 

@@ -736,6 +736,20 @@ body {
     width: fit-content;
 }
 
+.resume-pdf-viewer {
+    margin-top: 2rem;
+    background: var(--card-bg);
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+    border: 1px solid var(--card-border);
+}
+
+.resume-pdf-viewer iframe {
+    border: none;
+    display: block;
+}
+
 /* ==========================================
    Contact Section
    ========================================== */
